@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Steve3447
+- 👋 Hi, I’m @Adrian-Usz
 - 👀 I’m interested in: Software engineering/Web dev/Game dev.
 - 🌱 I’m currently learning: Java, Cs, Cpp, Python, HTML, CSS, JS
 - 😄 Pronouns: HE/HIM
